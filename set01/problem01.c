@@ -3,6 +3,6 @@
 int main()
 {
 
-    printf("Sanskriti Shrivastava\n");
+    printf("Sanskriti Shrivastava\n:");
     return 0;
 }
