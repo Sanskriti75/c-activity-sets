@@ -1,0 +1,18 @@
++b main
+Breakpoint 1 at 0x40146e: file c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01\problem01.c, line 6.
++r
+Starting program: c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01/./problem01.exe 
+[New Thread 16580.0x5d3c]
+[New Thread 16580.0x85c0]
+
+Breakpoint 1, main () at c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01\problem01.c:6
+6	    printf("Sanskriti Shrivastava\n:");
++n
+7	    return 0;
++n
+8	}+q
+A debugging session is active.
+
+	Inferior 1 [process 16580] will be killed.
+
+Quit anyway? (y or n) error return ../../gdb-7.6.1/gdb/windows-nat.c:1275 was 5
