@@ -16,7 +16,7 @@ int main()
 int stringcompare(char *string1, char *string2)
 {
     int i,result;
-    for(i=0;string1[i] || string2[i],i++)
+    for(i=0;string1[i] || string2[i];i++)
     {
         if(string1[i]>string2[i])
         {
