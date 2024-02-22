@@ -1,0 +1,11 @@
++r
+Starting program: c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01/./problem09.exe 
+[New Thread 22232.0x561c]
+[New Thread 22232.0x2b18]
+[Inferior 1 (process 22232) exited normally]
++r
+Starting program: c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01/./problem09.exe 
+[New Thread 18788.0x5048]
+[New Thread 18788.0x2430]
+[Inferior 1 (process 18788) exited normally]
++q
