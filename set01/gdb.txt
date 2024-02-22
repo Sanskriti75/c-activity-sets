@@ -1,0 +1,6 @@
++r
+Starting program: c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01/./problem03.exe 
+[New Thread 11772.0x3e28]
+[New Thread 11772.0xa90]
+[Inferior 1 (process 11772) exited normally]
++q
