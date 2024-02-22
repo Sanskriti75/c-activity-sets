@@ -1,0 +1,10 @@
+Compilation started at 2/22/2024, 12:38:38 PM
+C:\Users\sansk\AppData\Local\Temp\cc60Rszi.o: In function `main':
+c:/Users/sansk/OneDrive/Desktop/c-activity-sets-1/set01/problem10.c:11: undefined reference to `input_two_strings'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/22/2024, 12:38:39 PM
+Compilation started at 2/22/2024, 12:38:55 PM
+C:\Users\sansk\AppData\Local\Temp\ccoyENCk.o: In function `main':
+c:/Users/sansk/OneDrive/Desktop/c-activity-sets-1/set01/problem10.c:11: undefined reference to `input_two_strings'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/22/2024, 12:38:55 PM
