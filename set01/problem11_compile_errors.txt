@@ -1,0 +1,9 @@
+Compilation started at 2/22/2024, 12:45:39 PM
+c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01\problem11.c: In function 'input':
+c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01\problem11.c:25:5: warning: implicit declaration of function 'pritnf' [-Wimplicit-function-declaration]
+     pritnf("Enter the real part\n");
+     ^~~~~~
+C:\Users\sansk\AppData\Local\Temp\ccYGtxk0.o: In function `input':
+c:/Users/sansk/OneDrive/Desktop/c-activity-sets-1/set01/problem11.c:25: undefined reference to `pritnf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/22/2024, 12:45:39 PM
