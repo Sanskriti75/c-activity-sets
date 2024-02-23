@@ -4,3 +4,4 @@ Starting program: c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set01/./prob
 [New Thread 11772.0xa90]
 [Inferior 1 (process 11772) exited normally]
 +q
+Undefined command: "aset".  Try "help".
