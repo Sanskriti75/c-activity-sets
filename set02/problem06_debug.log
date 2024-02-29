@@ -1,0 +1,25 @@
++git add .
+Undefined command: "git".  Try "help".
++git commit -m "committed 2/29/2024, 11:45:08 PM"
+Undefined command: "git".  Try "help".
++git push
+Undefined command: "git".  Try "help".
++git add .
+Undefined command: "git".  Try "help".
++git commit -m "committed 2/29/2024, 11:46:01 PM"
+Undefined command: "git".  Try "help".
++git push
+Undefined command: "git".  Try "help".
++cd "c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set02"
+"c:\Users\sansk\OneDrive\Desktop\c-activity-sets-1\set02": Invalid argument.
++gdb ./problem06
+Undefined command: "gdb".  Try "help".
++c
+The program is not being run.
++set logging file problem06_debug.log
++set logging enabled on
+Undefined set logging command: "enabled on".  Try "help set logging".
++set logging on
+Already logging to problem06_debug.log.
++set trace-commands on
++q
